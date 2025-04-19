@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <!--
-**s0m6/s0m6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=s0m6&theme=radical)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0m6&layout=compact&theme=radical)](https://github.com/s0m6)
+### Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s0m6&theme=github-dark)](https://github.com/s0m6)
+
+
