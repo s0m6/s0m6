@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi , I'm SAM👋
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=s0m6&theme=radical)](https://git.io/streak-stats)
