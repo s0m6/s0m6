@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAM AL-YAFEL</h1>
+<h1 align="center">Hi 👋, I'm SAM AL-YAFEI</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0m6&label=Profile%20views&color=0e75b6&style=flat" alt="s0m6" /> </p>
