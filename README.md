@@ -56,6 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="40" height="40" title="Redis"/>
   <img src="https://cdn.simpleicons.org/livewire/FB70A9" alt="livewire" width="40" height="40" title="Livewire"/>
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs" width="40" height="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" title="ASP.NET Core"/>
 </p>
 
 **Frontend**
